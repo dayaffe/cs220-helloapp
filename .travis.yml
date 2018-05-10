@@ -1,0 +1,4 @@
+language: C
+install: true
+script:
+  - pytest
